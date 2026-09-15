@@ -399,7 +399,7 @@ banking77-bert-intent-classifier/
 ├── .gitignore
 │
 ├── notebooks/
-│   └── banking77_bert_classifier.ipynb
+│   └── banking_77_notebook.ipynb
 │
 └── results/
     ├── classification_report.txt
